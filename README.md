@@ -22,9 +22,9 @@
 - Software architecture & clean code practices
 
 ## 📫 Reach Me
-📧 Email: your-email@example.com  
-💼 LinkedIn: your-linkedin  
-🌐 Portfolio: your-portfolio-link
+📧 Email: kevinnovantino@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/kevin-novantino-hindiarto-69a3722b8/ 
+🌐 Portfolio: (ON THE WORK)
 
 ---
 ✨ Open to collaboration, internship opportunities, and exciting software development projects.
