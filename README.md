@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack
 💡 Languages: Java, C++, JavaScript, TypeScript  
 ⚙️ Frameworks & Tools: React, Next.js, Tailwind CSS, Git, GitHub  
-🗄️ Database: MySQL  
+🗄️ Database: Supabase  
 🔧 Other: REST APIs, Responsive Web Design
 
 ## 🌱 Currently Learning
