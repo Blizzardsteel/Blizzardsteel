@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kevin Novan 👋
 
-<!--
-**Blizzardsteel/Blizzardsteel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering student at Diponegoro University (UNDIP)  
+🚀 Passionate about software development, web development, and building practical tech solutions  
+🎯 Currently focused on improving my full-stack development skills and building real-world projects
 
-Here are some ideas to get you started:
+## 🔭 Currently Working On
+- Building and improving personal full-stack projects  
+- University software engineering and system development projects  
+- Expanding my portfolio with modern web applications  
+- Learning deeper backend architecture and scalable application development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+💡 Languages: Java, C++, JavaScript, TypeScript  
+⚙️ Frameworks & Tools: React, Next.js, Tailwind CSS, Git, GitHub  
+🗄️ Database: MySQL  
+🔧 Other: REST APIs, Responsive Web Design
+
+## 🌱 Currently Learning
+- Advanced React & Next.js  
+- Backend development  
+- Software architecture & clean code practices
+
+## 📫 Reach Me
+📧 Email: your-email@example.com  
+💼 LinkedIn: your-linkedin  
+🌐 Portfolio: your-portfolio-link
+
+---
+✨ Open to collaboration, internship opportunities, and exciting software development projects.
